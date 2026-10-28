@@ -1,5 +1,6 @@
 # Dự án Website rửa xe 
 *-Đây là một website hữu ích giúp con người có thể kiểm soát quy trình hoạt động của công việc rửa xe thuận tiện hơn là ghi vào sổ sách*
+
 **-Dự án có thể giúp người dùng đăng kí rửa xe online để có thể linh hoạt hơn về thời gian**
 
 ## Bảng thư mục nội dung
@@ -15,7 +16,8 @@
 ls -Force
 ``` 
 ## Task list công việc
-- [x] Hoàn thiện khung script có sẵn 
-- [] Thao tác với tài liệu markdown
+- [x] Hoàn thiện khung script có sẵn
+- [ ] Thao tác tài liệu với Markdown
+   
 
 >Không upload .env
